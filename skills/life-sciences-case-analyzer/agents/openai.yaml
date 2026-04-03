@@ -1,0 +1,4 @@
+interface:
+  display_name: "Life Sciences Case Analyzer"
+  short_description: "Analyze recent US/EU life-science deal cases"
+  default_prompt: "Use $life-sciences-case-analyzer to draft a publication-ready Chinese monthly digest of recent US/EU life-sciences transaction cases with clause-level takeaways."
