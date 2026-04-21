@@ -1,0 +1,4 @@
+interface:
+  display_name: "Life Sciences 30D Briefing"
+  short_description: "Build 30-day legal briefings with source links"
+  default_prompt: "Use $life-sciences-30d-briefing to draft a practical 30-day life sciences legal briefing with verified links."
